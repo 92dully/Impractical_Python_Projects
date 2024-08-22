@@ -51,5 +51,3 @@ while True:
         break
 
 input("\n Press Enter to exit.")
-
-"""new change"""
