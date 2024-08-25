@@ -1,4 +1,4 @@
-"""this is docstring for Chapter 1"""
+"""this is docstring for Chapter 1."""
 
 import sys
 import random
