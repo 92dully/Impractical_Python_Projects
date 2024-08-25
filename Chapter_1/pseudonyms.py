@@ -4,7 +4,7 @@ import sys
 import random
 
 print("Welcome to the Phych 'Sidekick Name Picker.' \n")
-print(" A name just like Sean would pick for Gus:/n\n")
+print(" A name just like Sean would pick for Gus:\n\n")
 
 first = ('Baby Oil', 'Bad News', 'Big Burps', "Bill 'Beenie-Weenie'",
          "Bob 'Stinkbug'", 'Bowel Noises', 'Boxelder', "Bud 'Lite'",
